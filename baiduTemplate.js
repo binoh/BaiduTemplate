@@ -8,7 +8,9 @@
  * @return 如果无data，直接返回编译后的函数；如果有data，返回html。
  * @author wangxiao 
  * @email 1988wangxiao@gmail.com
+ * 与jquery有什么不同吗？
 */
+
 
 ;(function(window){
 
